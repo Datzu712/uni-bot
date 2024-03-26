@@ -1,0 +1,27 @@
+{
+  "name": "api",
+  "version": "0.0.1",
+  "description": "Bot de ejemplo para el proyecto de la uni",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Datzu712",
+  "license": "MIT",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^7.3.1",
+    "@typescript-eslint/parser": "^7.3.1",
+    "eslint": "^8.57.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-prettier": "^5.1.3",
+    "ts-node": "^10.9.2",
+    "tsc-alias": "^1.8.8",
+    "tsconfig-paths": "^4.2.0",
+    "typescript": "^5.4.2"
+  },
+  "dependencies": {
+    "@nodecord/core": "^0.0.3-alfa.3",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5",
+    "reflect-metadata": "^0.2.1",
+    "useful-logger": "^0.0.2"
+  }
+}
